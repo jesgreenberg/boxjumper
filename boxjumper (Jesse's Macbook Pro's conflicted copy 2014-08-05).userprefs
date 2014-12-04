@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameGUI.js">
+    <Files>
+      <File FileName="Assets/Scripts/RestartButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameGUI.js" Line="232" Column="14" />
+      <File FileName="Assets/Scripts/PlayerText.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gems.js" Line="26" Column="21" />
+      <File FileName="Assets/Scripts/Gem.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Heart.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFollow.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GemIcon.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GlobalData.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Levels.js" Line="21" Column="8" />
+      <File FileName="Assets/Scripts/Map.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tutorial.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RestartButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelNode.js" Line="28" Column="9" />
+      <File FileName="Assets/Scripts/MenuAnchors.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuGUI.js" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Platform.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameAnchors.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PauseButton.js" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/ObjectPhysics.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

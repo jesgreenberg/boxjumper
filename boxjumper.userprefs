@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level.js">
+    <Files>
+      <File FileName="Assets/Scripts/GlobalData.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Intro.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameGUI.js" Line="186" Column="1" />
+      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFollow.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuGUI.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HotKeys.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Platform.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameAnchors.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gem.js" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/MenuAnchors.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuOld.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InputController.js" Line="110" Column="31" />
+      <File FileName="Assets/Scripts/Player.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gems.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RestartButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ObjectPhysics.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BasicButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GemIcon.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StaticButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WakeUp.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DontSleep.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Heart.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EditorScript.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Map.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Levels.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

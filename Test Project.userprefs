@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoxController.js">
+    <Files>
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="31" Column="32" />
+      <File FileName="Assets/Scripts/GUIScript.js" Line="16" Column="20" />
+      <File FileName="Assets/Scripts/CameraFollow.js" Line="14" Column="15" />
+      <File FileName="Assets/Scripts/PlatformMover.js" Line="6" Column="22" />
+      <File FileName="Assets/Scripts/BoxController.js" Line="64" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
